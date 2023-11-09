@@ -139,7 +139,7 @@ public class dashboard extends javax.swing.JFrame {
         jPanel5 = new javax.swing.JPanel();
         jPanel33 = new javax.swing.JPanel();
         jLabel73 = new javax.swing.JLabel();
-        jTextField32 = new javax.swing.JTextField();
+        searchField = new javax.swing.JTextField();
         jScrollPane1 = new javax.swing.JScrollPane();
         docutable = new javax.swing.JTable();
         jLabel67 = new javax.swing.JLabel();
@@ -203,7 +203,7 @@ public class dashboard extends javax.swing.JFrame {
         jScrollPane3 = new javax.swing.JScrollPane();
         docutable2 = new javax.swing.JTable();
         jLabel86 = new javax.swing.JLabel();
-        jTextField43 = new javax.swing.JTextField();
+        search2Field = new javax.swing.JTextField();
         jLabel102 = new javax.swing.JLabel();
         jButton7 = new javax.swing.JButton();
         selectedFile2Label = new javax.swing.JLabel();
@@ -265,7 +265,7 @@ public class dashboard extends javax.swing.JFrame {
         jScrollPane4 = new javax.swing.JScrollPane();
         docutable3 = new javax.swing.JTable();
         jLabel104 = new javax.swing.JLabel();
-        jTextField44 = new javax.swing.JTextField();
+        search3Field = new javax.swing.JTextField();
         jLabel105 = new javax.swing.JLabel();
         jButton9 = new javax.swing.JButton();
         selectedFile3Label = new javax.swing.JLabel();
@@ -699,12 +699,17 @@ public class dashboard extends javax.swing.JFrame {
         jLabel73.setText("Tracking of Documents for Safety");
         jPanel33.add(jLabel73, new org.netbeans.lib.awtextra.AbsoluteConstraints(620, 30, -1, -1));
 
-        jTextField32.addActionListener(new java.awt.event.ActionListener() {
+        searchField.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField32ActionPerformed(evt);
+                searchFieldActionPerformed(evt);
             }
         });
-        jPanel33.add(jTextField32, new org.netbeans.lib.awtextra.AbsoluteConstraints(660, 90, 290, 30));
+        searchField.addKeyListener(new java.awt.event.KeyAdapter() {
+            public void keyPressed(java.awt.event.KeyEvent evt) {
+                searchFieldKeyPressed(evt);
+            }
+        });
+        jPanel33.add(searchField, new org.netbeans.lib.awtextra.AbsoluteConstraints(660, 90, 290, 30));
 
         docutable.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
@@ -1258,12 +1263,17 @@ public class dashboard extends javax.swing.JFrame {
         jLabel86.setText("Search:");
         jPanel40.add(jLabel86, new org.netbeans.lib.awtextra.AbsoluteConstraints(610, 88, -1, 30));
 
-        jTextField43.addActionListener(new java.awt.event.ActionListener() {
+        search2Field.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField43ActionPerformed(evt);
+                search2FieldActionPerformed(evt);
             }
         });
-        jPanel40.add(jTextField43, new org.netbeans.lib.awtextra.AbsoluteConstraints(660, 90, 290, 30));
+        search2Field.addKeyListener(new java.awt.event.KeyAdapter() {
+            public void keyPressed(java.awt.event.KeyEvent evt) {
+                search2FieldKeyPressed(evt);
+            }
+        });
+        jPanel40.add(search2Field, new org.netbeans.lib.awtextra.AbsoluteConstraints(660, 90, 290, 30));
 
         jLabel102.setBackground(new java.awt.Color(240, 235, 216));
         jLabel102.setFont(new java.awt.Font("Impact", 0, 24)); // NOI18N
@@ -1800,12 +1810,17 @@ public class dashboard extends javax.swing.JFrame {
         jLabel104.setText("Search:");
         jPanel46.add(jLabel104, new org.netbeans.lib.awtextra.AbsoluteConstraints(610, 88, -1, 30));
 
-        jTextField44.addActionListener(new java.awt.event.ActionListener() {
+        search3Field.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField44ActionPerformed(evt);
+                search3FieldActionPerformed(evt);
             }
         });
-        jPanel46.add(jTextField44, new org.netbeans.lib.awtextra.AbsoluteConstraints(660, 90, 290, 30));
+        search3Field.addKeyListener(new java.awt.event.KeyAdapter() {
+            public void keyPressed(java.awt.event.KeyEvent evt) {
+                search3FieldKeyPressed(evt);
+            }
+        });
+        jPanel46.add(search3Field, new org.netbeans.lib.awtextra.AbsoluteConstraints(660, 90, 290, 30));
 
         jLabel105.setBackground(new java.awt.Color(240, 235, 216));
         jLabel105.setFont(new java.awt.Font("Impact", 0, 24)); // NOI18N
@@ -1856,9 +1871,9 @@ public class dashboard extends javax.swing.JFrame {
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
-    private void jTextField32ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField32ActionPerformed
+    private void searchFieldActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_searchFieldActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField32ActionPerformed
+    }//GEN-LAST:event_searchFieldActionPerformed
 
     private void jTextField6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField6ActionPerformed
         // TODO add your handling code here:
@@ -1989,9 +2004,9 @@ public class dashboard extends javax.swing.JFrame {
         showTable3();
     }//GEN-LAST:event_jPanel65MouseClicked
 
-    private void jTextField43ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField43ActionPerformed
+    private void search2FieldActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_search2FieldActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField43ActionPerformed
+    }//GEN-LAST:event_search2FieldActionPerformed
 
     private void jPanel68MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel68MouseClicked
         // TODO add your handling code here:
@@ -2021,9 +2036,9 @@ public class dashboard extends javax.swing.JFrame {
         // TODO add your handling code here:
     }//GEN-LAST:event_jPanel52MouseClicked
 
-    private void jTextField44ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField44ActionPerformed
+    private void search3FieldActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_search3FieldActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField44ActionPerformed
+    }//GEN-LAST:event_search3FieldActionPerformed
 
     private void jLabel134MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jLabel134MouseClicked
          int response = JOptionPane.showConfirmDialog(this, "Do you want to delete?", "Delete", JOptionPane.YES_NO_OPTION, JOptionPane.QUESTION_MESSAGE);
@@ -2403,6 +2418,103 @@ public class dashboard extends javax.swing.JFrame {
         // TODO add your handling code here:
     }//GEN-LAST:event_week2FieldActionPerformed
 
+    private void searchFieldKeyPressed(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_searchFieldKeyPressed
+        if(evt.getKeyCode()==java.awt.event.KeyEvent.VK_ENTER){     
+            try {
+                Class.forName("com.mysql.cj.jdbc.Driver");
+                cn = DriverManager.getConnection("jdbc:mysql://localhost:3306/docutable", "root", "");
+                st = cn.createStatement();
+                if (!"".equals(searchField.getText())) {
+                    String sql = "SELECT * FROM `" + table + "` WHERE ID LIKE '%" + searchField.getText() + "%' OR `week` LIKE '%" + searchField.getText() + "%'"
+                            + "OR `filename` LIKE '%" + searchField.getText() + "%'";
+                    ResultSet rrs = st.executeQuery(sql);
+                    DefaultTableModel model = (DefaultTableModel) docutable.getModel();
+                    model.setRowCount(0); // Clear existing rows
+                    while (rrs.next()) {
+                        Object[] row = {
+                            rrs.getInt("ID"),
+                            rrs.getString("week"),
+                            rrs.getString("filename"),
+                        };
+                        model.addRow(row);
+                    }
+                    rrs.close();
+                    st.close();
+                    cn.close();
+
+                } else {
+                    showTable();
+                }
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        }
+    }//GEN-LAST:event_searchFieldKeyPressed
+
+    private void search2FieldKeyPressed(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_search2FieldKeyPressed
+        if (evt.getKeyCode() == java.awt.event.KeyEvent.VK_ENTER) {
+            try {
+                Class.forName("com.mysql.cj.jdbc.Driver");
+                cn = DriverManager.getConnection("jdbc:mysql://localhost:3306/docutable", "root", "");
+                st = cn.createStatement();
+                if (!"".equals(search2Field.getText())) {
+                    String sql = "SELECT * FROM `" + table + "` WHERE ID LIKE '%" + search2Field.getText() + "%' OR `week` LIKE '%" + search2Field.getText() + "%'"
+                            + "OR `filename` LIKE '%" + search2Field.getText() + "%'";
+                    ResultSet rrs = st.executeQuery(sql);
+                    DefaultTableModel model = (DefaultTableModel) docutable2.getModel();
+                    model.setRowCount(0); // Clear existing rows
+                    while (rrs.next()) {
+                        Object[] row = {
+                            rrs.getInt("ID"),
+                            rrs.getString("week"),
+                            rrs.getString("filename"),};
+                        model.addRow(row);
+                    }
+                    rrs.close();
+                    st.close();
+                    cn.close();
+
+                } else {
+                    showTable2();
+                }
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        }
+    }//GEN-LAST:event_search2FieldKeyPressed
+
+    private void search3FieldKeyPressed(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_search3FieldKeyPressed
+        if (evt.getKeyCode() == java.awt.event.KeyEvent.VK_ENTER) {
+            try {
+                Class.forName("com.mysql.cj.jdbc.Driver");
+                cn = DriverManager.getConnection("jdbc:mysql://localhost:3306/docutable", "root", "");
+                st = cn.createStatement();
+                if (!"".equals(search3Field.getText())) {
+                    String sql = "SELECT * FROM `" + table + "` WHERE ID LIKE '%" + search3Field.getText() + "%' OR `week` LIKE '%" + search3Field.getText() + "%'"
+                            + "OR `filename` LIKE '%" + search3Field.getText() + "%'";
+                    ResultSet rrs = st.executeQuery(sql);
+                    DefaultTableModel model = (DefaultTableModel) docutable3.getModel();
+                    model.setRowCount(0); // Clear existing rows
+                    while (rrs.next()) {
+                        Object[] row = {
+                            rrs.getInt("ID"),
+                            rrs.getString("week"),
+                            rrs.getString("filename"),};
+                        model.addRow(row);
+                    }
+                    rrs.close();
+                    st.close();
+                    cn.close();
+
+                } else {
+                    showTable3();
+                }
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        }
+    }//GEN-LAST:event_search3FieldKeyPressed
+
     /**
      * @param args the command line arguments
      */
@@ -2644,7 +2756,6 @@ public class dashboard extends javax.swing.JFrame {
     private javax.swing.JTextField jTextField28;
     private javax.swing.JTextField jTextField29;
     private javax.swing.JTextField jTextField30;
-    private javax.swing.JTextField jTextField32;
     private javax.swing.JTextField jTextField34;
     private javax.swing.JTextField jTextField35;
     private javax.swing.JTextField jTextField36;
@@ -2654,9 +2765,10 @@ public class dashboard extends javax.swing.JFrame {
     private javax.swing.JTextField jTextField40;
     private javax.swing.JTextField jTextField41;
     private javax.swing.JTextField jTextField42;
-    private javax.swing.JTextField jTextField43;
-    private javax.swing.JTextField jTextField44;
     private javax.swing.JTextField jTextField6;
+    private javax.swing.JTextField search2Field;
+    private javax.swing.JTextField search3Field;
+    private javax.swing.JTextField searchField;
     private javax.swing.JLabel selectedFile2Label;
     private javax.swing.JLabel selectedFile3Label;
     private javax.swing.JLabel selectedFileLabel;
