@@ -53,89 +53,6 @@ public class dashboard extends javax.swing.JFrame {
 
         jPanel4 = new javax.swing.JPanel();
         jTabbedPane1 = new javax.swing.JTabbedPane();
-        jPanel1 = new javax.swing.JPanel();
-        jPanel7 = new javax.swing.JPanel();
-        jPanel8 = new javax.swing.JPanel();
-        jLabel7 = new javax.swing.JLabel();
-        jPanel9 = new javax.swing.JPanel();
-        jLabel10 = new javax.swing.JLabel();
-        jPanel10 = new javax.swing.JPanel();
-        jLabel12 = new javax.swing.JLabel();
-        jPanel11 = new javax.swing.JPanel();
-        jLabel11 = new javax.swing.JLabel();
-        jLabel1 = new javax.swing.JLabel();
-        jLabel35 = new javax.swing.JLabel();
-        jLabel87 = new javax.swing.JLabel();
-        jPanel3 = new javax.swing.JPanel();
-        jTextField6 = new javax.swing.JTextField();
-        jTextField13 = new javax.swing.JTextField();
-        jTextField14 = new javax.swing.JTextField();
-        jTextField15 = new javax.swing.JTextField();
-        jLabel36 = new javax.swing.JLabel();
-        jTextField16 = new javax.swing.JTextField();
-        jPanel15 = new javax.swing.JPanel();
-        jLabel8 = new javax.swing.JLabel();
-        jPanel16 = new javax.swing.JPanel();
-        jLabel39 = new javax.swing.JLabel();
-        jTextField11 = new javax.swing.JTextField();
-        jPanel17 = new javax.swing.JPanel();
-        jLabel42 = new javax.swing.JLabel();
-        jLabel43 = new javax.swing.JLabel();
-        jLabel44 = new javax.swing.JLabel();
-        jTextField19 = new javax.swing.JTextField();
-        jTextField20 = new javax.swing.JTextField();
-        jLabel45 = new javax.swing.JLabel();
-        jTextField21 = new javax.swing.JTextField();
-        jPanel18 = new javax.swing.JPanel();
-        jLabel46 = new javax.swing.JLabel();
-        jLabel47 = new javax.swing.JLabel();
-        jLabel48 = new javax.swing.JLabel();
-        jTextField22 = new javax.swing.JTextField();
-        jTextField23 = new javax.swing.JTextField();
-        jLabel49 = new javax.swing.JLabel();
-        jTextField24 = new javax.swing.JTextField();
-        jPanel19 = new javax.swing.JPanel();
-        jLabel50 = new javax.swing.JLabel();
-        jLabel51 = new javax.swing.JLabel();
-        jLabel52 = new javax.swing.JLabel();
-        jTextField25 = new javax.swing.JTextField();
-        jTextField26 = new javax.swing.JTextField();
-        jLabel53 = new javax.swing.JLabel();
-        jTextField27 = new javax.swing.JTextField();
-        jPanel26 = new javax.swing.JPanel();
-        jLabel55 = new javax.swing.JLabel();
-        jLabel56 = new javax.swing.JLabel();
-        jLabel57 = new javax.swing.JLabel();
-        jTextField28 = new javax.swing.JTextField();
-        jTextField29 = new javax.swing.JTextField();
-        jLabel58 = new javax.swing.JLabel();
-        jTextField30 = new javax.swing.JTextField();
-        jPanel27 = new javax.swing.JPanel();
-        jLabel59 = new javax.swing.JLabel();
-        jLabel89 = new javax.swing.JLabel();
-        jLabel90 = new javax.swing.JLabel();
-        jTextField34 = new javax.swing.JTextField();
-        jTextField35 = new javax.swing.JTextField();
-        jLabel91 = new javax.swing.JLabel();
-        jTextField36 = new javax.swing.JTextField();
-        jPanel28 = new javax.swing.JPanel();
-        jLabel92 = new javax.swing.JLabel();
-        jLabel93 = new javax.swing.JLabel();
-        jLabel94 = new javax.swing.JLabel();
-        jTextField37 = new javax.swing.JTextField();
-        jTextField38 = new javax.swing.JTextField();
-        jLabel95 = new javax.swing.JLabel();
-        jTextField39 = new javax.swing.JTextField();
-        jPanel29 = new javax.swing.JPanel();
-        jLabel96 = new javax.swing.JLabel();
-        jLabel97 = new javax.swing.JLabel();
-        jLabel98 = new javax.swing.JLabel();
-        jTextField40 = new javax.swing.JTextField();
-        jTextField41 = new javax.swing.JTextField();
-        jLabel99 = new javax.swing.JLabel();
-        jTextField42 = new javax.swing.JTextField();
-        jPanel14 = new javax.swing.JPanel();
-        jLabel37 = new javax.swing.JLabel();
         jPanel5 = new javax.swing.JPanel();
         jPanel33 = new javax.swing.JPanel();
         jLabel73 = new javax.swing.JLabel();
@@ -145,8 +62,6 @@ public class dashboard extends javax.swing.JFrame {
         jLabel67 = new javax.swing.JLabel();
         jButton3 = new javax.swing.JButton();
         jPanel34 = new javax.swing.JPanel();
-        jPanel35 = new javax.swing.JPanel();
-        jLabel114 = new javax.swing.JLabel();
         jPanel36 = new javax.swing.JPanel();
         jLabel115 = new javax.swing.JLabel();
         jPanel37 = new javax.swing.JPanel();
@@ -177,8 +92,6 @@ public class dashboard extends javax.swing.JFrame {
         jPanel6 = new javax.swing.JPanel();
         jPanel40 = new javax.swing.JPanel();
         jPanel39 = new javax.swing.JPanel();
-        jPanel59 = new javax.swing.JPanel();
-        jLabel121 = new javax.swing.JLabel();
         jPanel60 = new javax.swing.JPanel();
         jLabel122 = new javax.swing.JLabel();
         jPanel61 = new javax.swing.JPanel();
@@ -214,8 +127,6 @@ public class dashboard extends javax.swing.JFrame {
         jLabel29 = new javax.swing.JLabel();
         jPanel30 = new javax.swing.JPanel();
         jPanel63 = new javax.swing.JPanel();
-        jPanel64 = new javax.swing.JPanel();
-        jLabel128 = new javax.swing.JLabel();
         jPanel65 = new javax.swing.JPanel();
         jLabel129 = new javax.swing.JLabel();
         jPanel66 = new javax.swing.JPanel();
@@ -289,404 +200,6 @@ public class dashboard extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         getContentPane().setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        jPanel1.setBackground(new java.awt.Color(62, 92, 118));
-        jPanel1.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
-
-        jPanel7.setBackground(new java.awt.Color(116, 140, 171));
-        jPanel7.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
-
-        jPanel8.setBackground(new java.awt.Color(240, 235, 216));
-        jPanel8.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
-
-        jLabel7.setFont(new java.awt.Font("SansSerif", 1, 12)); // NOI18N
-        jLabel7.setForeground(new java.awt.Color(29, 45, 68));
-        jLabel7.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icons/dashboard1.png"))); // NOI18N
-        jLabel7.setText("Dashboard");
-        jPanel8.add(jLabel7, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 0, 140, 50));
-
-        jPanel7.add(jPanel8, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 100, 230, 50));
-
-        jPanel9.setBackground(new java.awt.Color(240, 235, 216));
-        jPanel9.addMouseListener(new java.awt.event.MouseAdapter() {
-            public void mouseClicked(java.awt.event.MouseEvent evt) {
-                jPanel9MouseClicked(evt);
-            }
-        });
-
-        jLabel10.setFont(new java.awt.Font("SansSerif", 1, 12)); // NOI18N
-        jLabel10.setForeground(new java.awt.Color(29, 45, 68));
-        jLabel10.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icons/documents.png"))); // NOI18N
-        jLabel10.setText("SOCIAL");
-
-        javax.swing.GroupLayout jPanel9Layout = new javax.swing.GroupLayout(jPanel9);
-        jPanel9.setLayout(jPanel9Layout);
-        jPanel9Layout.setHorizontalGroup(
-            jPanel9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel9Layout.createSequentialGroup()
-                .addGap(30, 30, 30)
-                .addComponent(jLabel10, javax.swing.GroupLayout.PREFERRED_SIZE, 163, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
-        );
-        jPanel9Layout.setVerticalGroup(
-            jPanel9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel9Layout.createSequentialGroup()
-                .addComponent(jLabel10)
-                .addGap(0, 5, Short.MAX_VALUE))
-        );
-
-        jPanel7.add(jPanel9, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 310, 230, 50));
-
-        jPanel10.setBackground(new java.awt.Color(240, 235, 216));
-        jPanel10.addMouseListener(new java.awt.event.MouseAdapter() {
-            public void mouseClicked(java.awt.event.MouseEvent evt) {
-                jPanel10MouseClicked(evt);
-            }
-        });
-
-        jLabel12.setFont(new java.awt.Font("SansSerif", 1, 12)); // NOI18N
-        jLabel12.setForeground(new java.awt.Color(29, 45, 68));
-        jLabel12.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icons/documents.png"))); // NOI18N
-        jLabel12.setText("ENVIRONMENT");
-
-        javax.swing.GroupLayout jPanel10Layout = new javax.swing.GroupLayout(jPanel10);
-        jPanel10.setLayout(jPanel10Layout);
-        jPanel10Layout.setHorizontalGroup(
-            jPanel10Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel10Layout.createSequentialGroup()
-                .addGap(27, 27, 27)
-                .addComponent(jLabel12)
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
-        );
-        jPanel10Layout.setVerticalGroup(
-            jPanel10Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGroup(jPanel10Layout.createSequentialGroup()
-                .addComponent(jLabel12)
-                .addGap(0, 5, Short.MAX_VALUE))
-        );
-
-        jPanel7.add(jPanel10, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 240, 230, 50));
-
-        jPanel11.setBackground(new java.awt.Color(240, 235, 216));
-        jPanel11.addMouseListener(new java.awt.event.MouseAdapter() {
-            public void mouseClicked(java.awt.event.MouseEvent evt) {
-                jPanel11MouseClicked(evt);
-            }
-        });
-        jPanel11.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
-
-        jLabel11.setFont(new java.awt.Font("SansSerif", 1, 12)); // NOI18N
-        jLabel11.setForeground(new java.awt.Color(29, 45, 68));
-        jLabel11.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icons/documents.png"))); // NOI18N
-        jLabel11.setText("SAFETY");
-        jPanel11.add(jLabel11, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 0, 150, -1));
-
-        jPanel7.add(jPanel11, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 170, 230, 50));
-
-        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icons/home2.png"))); // NOI18N
-        jLabel1.setText("jLabel1");
-        jPanel7.add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(90, 30, 40, -1));
-
-        jLabel35.setBackground(new java.awt.Color(62, 92, 118));
-        jLabel35.setFont(new java.awt.Font("Serif", 1, 14)); // NOI18N
-        jLabel35.setForeground(new java.awt.Color(240, 235, 216));
-        jLabel35.setText("MSESDD");
-        jPanel7.add(jLabel35, new org.netbeans.lib.awtextra.AbsoluteConstraints(80, 70, 60, -1));
-
-        jLabel87.setFont(new java.awt.Font("SansSerif", 1, 14)); // NOI18N
-        jLabel87.setForeground(new java.awt.Color(240, 235, 216));
-        jLabel87.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icons/logout.png"))); // NOI18N
-        jLabel87.setText("Log-out");
-        jLabel87.addMouseListener(new java.awt.event.MouseAdapter() {
-            public void mouseClicked(java.awt.event.MouseEvent evt) {
-                jLabel87MouseClicked(evt);
-            }
-        });
-        jPanel7.add(jLabel87, new org.netbeans.lib.awtextra.AbsoluteConstraints(60, 600, 100, -1));
-
-        jPanel1.add(jPanel7, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 230, 690));
-
-        jPanel3.setBackground(new java.awt.Color(116, 140, 171));
-        jPanel3.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
-
-        jTextField6.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTextField6ActionPerformed(evt);
-            }
-        });
-        jPanel3.add(jTextField6, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 160, 290, -1));
-        jPanel3.add(jTextField13, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 70, 290, -1));
-        jPanel3.add(jTextField14, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 100, 290, -1));
-        jPanel3.add(jTextField15, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 130, 290, -1));
-
-        jLabel36.setBackground(new java.awt.Color(62, 92, 118));
-        jLabel36.setFont(new java.awt.Font("SansSerif", 1, 14)); // NOI18N
-        jLabel36.setForeground(new java.awt.Color(240, 235, 216));
-        jLabel36.setText("My Tasks");
-        jPanel3.add(jLabel36, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 10, -1, -1));
-        jPanel3.add(jTextField16, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 40, 290, -1));
-
-        jPanel1.add(jPanel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(260, 70, 330, 240));
-
-        jPanel15.setBackground(new java.awt.Color(116, 140, 171));
-        jPanel15.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
-
-        jLabel8.setBackground(new java.awt.Color(62, 92, 118));
-        jLabel8.setFont(new java.awt.Font("SansSerif", 1, 14)); // NOI18N
-        jLabel8.setForeground(new java.awt.Color(240, 235, 216));
-        jLabel8.setText("Notice Board");
-        jPanel15.add(jLabel8, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 10, -1, -1));
-
-        jPanel1.add(jPanel15, new org.netbeans.lib.awtextra.AbsoluteConstraints(960, 70, 280, 510));
-
-        jPanel16.setBackground(new java.awt.Color(116, 140, 171));
-        jPanel16.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
-
-        jLabel39.setBackground(new java.awt.Color(62, 92, 118));
-        jLabel39.setFont(new java.awt.Font("SansSerif", 1, 14)); // NOI18N
-        jLabel39.setForeground(new java.awt.Color(240, 235, 216));
-        jLabel39.setText("Post on Board");
-        jPanel16.add(jLabel39, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 10, -1, -1));
-        jPanel16.add(jTextField11, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 40, 240, 110));
-
-        jPanel17.setBackground(new java.awt.Color(116, 140, 171));
-        jPanel17.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
-
-        jLabel42.setBackground(new java.awt.Color(62, 92, 118));
-        jLabel42.setFont(new java.awt.Font("SansSerif", 1, 14)); // NOI18N
-        jLabel42.setForeground(new java.awt.Color(240, 235, 216));
-        jLabel42.setText("Compose message");
-        jPanel17.add(jLabel42, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 100, -1, -1));
-
-        jLabel43.setBackground(new java.awt.Color(62, 92, 118));
-        jLabel43.setFont(new java.awt.Font("SansSerif", 1, 14)); // NOI18N
-        jLabel43.setForeground(new java.awt.Color(240, 235, 216));
-        jLabel43.setText("Message");
-        jPanel17.add(jLabel43, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 10, -1, -1));
-
-        jLabel44.setBackground(new java.awt.Color(62, 92, 118));
-        jLabel44.setFont(new java.awt.Font("SansSerif", 1, 14)); // NOI18N
-        jLabel44.setForeground(new java.awt.Color(240, 235, 216));
-        jLabel44.setText("To:");
-        jPanel17.add(jLabel44, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 40, -1, -1));
-        jPanel17.add(jTextField19, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 120, 240, 110));
-        jPanel17.add(jTextField20, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 40, 240, -1));
-
-        jLabel45.setBackground(new java.awt.Color(62, 92, 118));
-        jLabel45.setFont(new java.awt.Font("SansSerif", 1, 14)); // NOI18N
-        jLabel45.setForeground(new java.awt.Color(240, 235, 216));
-        jLabel45.setText("From:");
-        jPanel17.add(jLabel45, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 70, -1, -1));
-        jPanel17.add(jTextField21, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 70, 240, -1));
-
-        jPanel16.add(jPanel17, new org.netbeans.lib.awtextra.AbsoluteConstraints(260, 390, 330, 240));
-
-        jPanel18.setBackground(new java.awt.Color(116, 140, 171));
-        jPanel18.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
-
-        jLabel46.setBackground(new java.awt.Color(62, 92, 118));
-        jLabel46.setFont(new java.awt.Font("SansSerif", 1, 14)); // NOI18N
-        jLabel46.setForeground(new java.awt.Color(240, 235, 216));
-        jLabel46.setText("Compose message");
-        jPanel18.add(jLabel46, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 100, -1, -1));
-
-        jLabel47.setBackground(new java.awt.Color(62, 92, 118));
-        jLabel47.setFont(new java.awt.Font("SansSerif", 1, 14)); // NOI18N
-        jLabel47.setForeground(new java.awt.Color(240, 235, 216));
-        jLabel47.setText("Message");
-        jPanel18.add(jLabel47, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 10, -1, -1));
-
-        jLabel48.setBackground(new java.awt.Color(62, 92, 118));
-        jLabel48.setFont(new java.awt.Font("SansSerif", 1, 14)); // NOI18N
-        jLabel48.setForeground(new java.awt.Color(240, 235, 216));
-        jLabel48.setText("To:");
-        jPanel18.add(jLabel48, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 40, -1, -1));
-        jPanel18.add(jTextField22, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 120, 240, 110));
-        jPanel18.add(jTextField23, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 40, 240, -1));
-
-        jLabel49.setBackground(new java.awt.Color(62, 92, 118));
-        jLabel49.setFont(new java.awt.Font("SansSerif", 1, 14)); // NOI18N
-        jLabel49.setForeground(new java.awt.Color(240, 235, 216));
-        jLabel49.setText("From:");
-        jPanel18.add(jLabel49, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 70, -1, -1));
-        jPanel18.add(jTextField24, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 70, 240, -1));
-
-        jPanel19.setBackground(new java.awt.Color(116, 140, 171));
-        jPanel19.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
-
-        jLabel50.setBackground(new java.awt.Color(62, 92, 118));
-        jLabel50.setFont(new java.awt.Font("SansSerif", 1, 14)); // NOI18N
-        jLabel50.setForeground(new java.awt.Color(240, 235, 216));
-        jLabel50.setText("Compose message");
-        jPanel19.add(jLabel50, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 100, -1, -1));
-
-        jLabel51.setBackground(new java.awt.Color(62, 92, 118));
-        jLabel51.setFont(new java.awt.Font("SansSerif", 1, 14)); // NOI18N
-        jLabel51.setForeground(new java.awt.Color(240, 235, 216));
-        jLabel51.setText("Message");
-        jPanel19.add(jLabel51, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 10, -1, -1));
-
-        jLabel52.setBackground(new java.awt.Color(62, 92, 118));
-        jLabel52.setFont(new java.awt.Font("SansSerif", 1, 14)); // NOI18N
-        jLabel52.setForeground(new java.awt.Color(240, 235, 216));
-        jLabel52.setText("To:");
-        jPanel19.add(jLabel52, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 40, -1, -1));
-        jPanel19.add(jTextField25, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 120, 240, 110));
-        jPanel19.add(jTextField26, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 40, 240, -1));
-
-        jLabel53.setBackground(new java.awt.Color(62, 92, 118));
-        jLabel53.setFont(new java.awt.Font("SansSerif", 1, 14)); // NOI18N
-        jLabel53.setForeground(new java.awt.Color(240, 235, 216));
-        jLabel53.setText("From:");
-        jPanel19.add(jLabel53, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 70, -1, -1));
-        jPanel19.add(jTextField27, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 70, 240, -1));
-
-        jPanel18.add(jPanel19, new org.netbeans.lib.awtextra.AbsoluteConstraints(260, 390, 330, 240));
-
-        jPanel16.add(jPanel18, new org.netbeans.lib.awtextra.AbsoluteConstraints(260, 390, 330, 240));
-
-        jPanel1.add(jPanel16, new org.netbeans.lib.awtextra.AbsoluteConstraints(610, 340, 330, 240));
-
-        jPanel26.setBackground(new java.awt.Color(116, 140, 171));
-        jPanel26.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
-
-        jLabel55.setBackground(new java.awt.Color(62, 92, 118));
-        jLabel55.setFont(new java.awt.Font("SansSerif", 1, 14)); // NOI18N
-        jLabel55.setForeground(new java.awt.Color(240, 235, 216));
-        jLabel55.setText("Compose message");
-        jPanel26.add(jLabel55, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 100, -1, -1));
-
-        jLabel56.setBackground(new java.awt.Color(62, 92, 118));
-        jLabel56.setFont(new java.awt.Font("SansSerif", 1, 14)); // NOI18N
-        jLabel56.setForeground(new java.awt.Color(240, 235, 216));
-        jLabel56.setText("Message");
-        jPanel26.add(jLabel56, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 10, -1, -1));
-
-        jLabel57.setBackground(new java.awt.Color(62, 92, 118));
-        jLabel57.setFont(new java.awt.Font("SansSerif", 1, 14)); // NOI18N
-        jLabel57.setForeground(new java.awt.Color(240, 235, 216));
-        jLabel57.setText("To:");
-        jPanel26.add(jLabel57, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 40, -1, -1));
-        jPanel26.add(jTextField28, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 120, 240, 110));
-        jPanel26.add(jTextField29, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 40, 240, -1));
-
-        jLabel58.setBackground(new java.awt.Color(62, 92, 118));
-        jLabel58.setFont(new java.awt.Font("SansSerif", 1, 14)); // NOI18N
-        jLabel58.setForeground(new java.awt.Color(240, 235, 216));
-        jLabel58.setText("From:");
-        jPanel26.add(jLabel58, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 70, -1, -1));
-        jPanel26.add(jTextField30, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 70, 240, -1));
-
-        jPanel27.setBackground(new java.awt.Color(116, 140, 171));
-        jPanel27.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
-
-        jLabel59.setBackground(new java.awt.Color(62, 92, 118));
-        jLabel59.setFont(new java.awt.Font("SansSerif", 1, 14)); // NOI18N
-        jLabel59.setForeground(new java.awt.Color(240, 235, 216));
-        jLabel59.setText("Compose message");
-        jPanel27.add(jLabel59, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 100, -1, -1));
-
-        jLabel89.setBackground(new java.awt.Color(62, 92, 118));
-        jLabel89.setFont(new java.awt.Font("SansSerif", 1, 14)); // NOI18N
-        jLabel89.setForeground(new java.awt.Color(240, 235, 216));
-        jLabel89.setText("Message");
-        jPanel27.add(jLabel89, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 10, -1, -1));
-
-        jLabel90.setBackground(new java.awt.Color(62, 92, 118));
-        jLabel90.setFont(new java.awt.Font("SansSerif", 1, 14)); // NOI18N
-        jLabel90.setForeground(new java.awt.Color(240, 235, 216));
-        jLabel90.setText("To:");
-        jPanel27.add(jLabel90, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 40, -1, -1));
-        jPanel27.add(jTextField34, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 120, 240, 110));
-        jPanel27.add(jTextField35, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 40, 240, -1));
-
-        jLabel91.setBackground(new java.awt.Color(62, 92, 118));
-        jLabel91.setFont(new java.awt.Font("SansSerif", 1, 14)); // NOI18N
-        jLabel91.setForeground(new java.awt.Color(240, 235, 216));
-        jLabel91.setText("From:");
-        jPanel27.add(jLabel91, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 70, -1, -1));
-        jPanel27.add(jTextField36, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 70, 240, -1));
-
-        jPanel26.add(jPanel27, new org.netbeans.lib.awtextra.AbsoluteConstraints(260, 390, 330, 240));
-
-        jPanel28.setBackground(new java.awt.Color(116, 140, 171));
-        jPanel28.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
-
-        jLabel92.setBackground(new java.awt.Color(62, 92, 118));
-        jLabel92.setFont(new java.awt.Font("SansSerif", 1, 14)); // NOI18N
-        jLabel92.setForeground(new java.awt.Color(240, 235, 216));
-        jLabel92.setText("Compose message");
-        jPanel28.add(jLabel92, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 100, -1, -1));
-
-        jLabel93.setBackground(new java.awt.Color(62, 92, 118));
-        jLabel93.setFont(new java.awt.Font("SansSerif", 1, 14)); // NOI18N
-        jLabel93.setForeground(new java.awt.Color(240, 235, 216));
-        jLabel93.setText("Message");
-        jPanel28.add(jLabel93, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 10, -1, -1));
-
-        jLabel94.setBackground(new java.awt.Color(62, 92, 118));
-        jLabel94.setFont(new java.awt.Font("SansSerif", 1, 14)); // NOI18N
-        jLabel94.setForeground(new java.awt.Color(240, 235, 216));
-        jLabel94.setText("To:");
-        jPanel28.add(jLabel94, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 40, -1, -1));
-        jPanel28.add(jTextField37, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 120, 240, 110));
-        jPanel28.add(jTextField38, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 40, 240, -1));
-
-        jLabel95.setBackground(new java.awt.Color(62, 92, 118));
-        jLabel95.setFont(new java.awt.Font("SansSerif", 1, 14)); // NOI18N
-        jLabel95.setForeground(new java.awt.Color(240, 235, 216));
-        jLabel95.setText("From:");
-        jPanel28.add(jLabel95, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 70, -1, -1));
-        jPanel28.add(jTextField39, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 70, 240, -1));
-
-        jPanel29.setBackground(new java.awt.Color(116, 140, 171));
-        jPanel29.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
-
-        jLabel96.setBackground(new java.awt.Color(62, 92, 118));
-        jLabel96.setFont(new java.awt.Font("SansSerif", 1, 14)); // NOI18N
-        jLabel96.setForeground(new java.awt.Color(240, 235, 216));
-        jLabel96.setText("Compose message");
-        jPanel29.add(jLabel96, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 100, -1, -1));
-
-        jLabel97.setBackground(new java.awt.Color(62, 92, 118));
-        jLabel97.setFont(new java.awt.Font("SansSerif", 1, 14)); // NOI18N
-        jLabel97.setForeground(new java.awt.Color(240, 235, 216));
-        jLabel97.setText("Message");
-        jPanel29.add(jLabel97, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 10, -1, -1));
-
-        jLabel98.setBackground(new java.awt.Color(62, 92, 118));
-        jLabel98.setFont(new java.awt.Font("SansSerif", 1, 14)); // NOI18N
-        jLabel98.setForeground(new java.awt.Color(240, 235, 216));
-        jLabel98.setText("To:");
-        jPanel29.add(jLabel98, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 40, -1, -1));
-        jPanel29.add(jTextField40, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 120, 240, 110));
-        jPanel29.add(jTextField41, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 40, 240, -1));
-
-        jLabel99.setBackground(new java.awt.Color(62, 92, 118));
-        jLabel99.setFont(new java.awt.Font("SansSerif", 1, 14)); // NOI18N
-        jLabel99.setForeground(new java.awt.Color(240, 235, 216));
-        jLabel99.setText("From:");
-        jPanel29.add(jLabel99, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 70, -1, -1));
-        jPanel29.add(jTextField42, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 70, 240, -1));
-
-        jPanel28.add(jPanel29, new org.netbeans.lib.awtextra.AbsoluteConstraints(260, 390, 330, 240));
-
-        jPanel26.add(jPanel28, new org.netbeans.lib.awtextra.AbsoluteConstraints(260, 390, 330, 240));
-
-        jPanel1.add(jPanel26, new org.netbeans.lib.awtextra.AbsoluteConstraints(260, 340, 330, 240));
-
-        jPanel14.setBackground(new java.awt.Color(116, 140, 171));
-        jPanel14.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
-
-        jLabel37.setBackground(new java.awt.Color(62, 92, 118));
-        jLabel37.setFont(new java.awt.Font("SansSerif", 1, 14)); // NOI18N
-        jLabel37.setForeground(new java.awt.Color(240, 235, 216));
-        jLabel37.setText("Calendar");
-        jPanel14.add(jLabel37, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 10, -1, -1));
-
-        jPanel1.add(jPanel14, new org.netbeans.lib.awtextra.AbsoluteConstraints(610, 70, 330, 240));
-
-        jTabbedPane1.addTab("dashboard", jPanel1);
-
         jPanel5.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
         jPanel33.setBackground(new java.awt.Color(62, 92, 118));
@@ -753,17 +266,6 @@ public class dashboard extends javax.swing.JFrame {
         jPanel34.setBackground(new java.awt.Color(116, 140, 171));
         jPanel34.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        jPanel35.setBackground(new java.awt.Color(240, 235, 216));
-        jPanel35.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
-
-        jLabel114.setFont(new java.awt.Font("SansSerif", 1, 12)); // NOI18N
-        jLabel114.setForeground(new java.awt.Color(29, 45, 68));
-        jLabel114.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icons/dashboard1.png"))); // NOI18N
-        jLabel114.setText("Dashboard");
-        jPanel35.add(jLabel114, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 0, 140, 50));
-
-        jPanel34.add(jPanel35, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 100, 230, 50));
-
         jPanel36.setBackground(new java.awt.Color(240, 235, 216));
         jPanel36.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -792,7 +294,7 @@ public class dashboard extends javax.swing.JFrame {
                 .addGap(0, 5, Short.MAX_VALUE))
         );
 
-        jPanel34.add(jPanel36, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 310, 230, 50));
+        jPanel34.add(jPanel36, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 240, 230, 50));
 
         jPanel37.setBackground(new java.awt.Color(240, 235, 216));
         jPanel37.addMouseListener(new java.awt.event.MouseAdapter() {
@@ -822,7 +324,7 @@ public class dashboard extends javax.swing.JFrame {
                 .addGap(0, 5, Short.MAX_VALUE))
         );
 
-        jPanel34.add(jPanel37, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 240, 230, 50));
+        jPanel34.add(jPanel37, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 170, 230, 50));
 
         jPanel38.setBackground(new java.awt.Color(240, 235, 216));
         jPanel38.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
@@ -833,7 +335,7 @@ public class dashboard extends javax.swing.JFrame {
         jLabel117.setText("SAFETY");
         jPanel38.add(jLabel117, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 0, 150, -1));
 
-        jPanel34.add(jPanel38, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 170, 230, 50));
+        jPanel34.add(jPanel38, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 100, 230, 50));
 
         jLabel118.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icons/home2.png"))); // NOI18N
         jLabel118.setText("jLabel1");
@@ -1008,22 +510,6 @@ public class dashboard extends javax.swing.JFrame {
         jPanel39.setBackground(new java.awt.Color(116, 140, 171));
         jPanel39.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        jPanel59.setBackground(new java.awt.Color(240, 235, 216));
-        jPanel59.addMouseListener(new java.awt.event.MouseAdapter() {
-            public void mouseClicked(java.awt.event.MouseEvent evt) {
-                jPanel59MouseClicked(evt);
-            }
-        });
-        jPanel59.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
-
-        jLabel121.setFont(new java.awt.Font("SansSerif", 1, 12)); // NOI18N
-        jLabel121.setForeground(new java.awt.Color(29, 45, 68));
-        jLabel121.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icons/dashboard1.png"))); // NOI18N
-        jLabel121.setText("Dashboard");
-        jPanel59.add(jLabel121, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 0, 140, 50));
-
-        jPanel39.add(jPanel59, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 100, 230, 50));
-
         jPanel60.setBackground(new java.awt.Color(240, 235, 216));
         jPanel60.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -1052,7 +538,7 @@ public class dashboard extends javax.swing.JFrame {
                 .addGap(0, 5, Short.MAX_VALUE))
         );
 
-        jPanel39.add(jPanel60, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 310, 230, 50));
+        jPanel39.add(jPanel60, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 240, 230, 50));
 
         jPanel61.setBackground(new java.awt.Color(240, 235, 216));
         jPanel61.addMouseListener(new java.awt.event.MouseAdapter() {
@@ -1082,7 +568,7 @@ public class dashboard extends javax.swing.JFrame {
                 .addGap(0, 5, Short.MAX_VALUE))
         );
 
-        jPanel39.add(jPanel61, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 240, 230, 50));
+        jPanel39.add(jPanel61, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 170, 230, 50));
 
         jPanel62.setBackground(new java.awt.Color(240, 235, 216));
         jPanel62.addMouseListener(new java.awt.event.MouseAdapter() {
@@ -1098,7 +584,7 @@ public class dashboard extends javax.swing.JFrame {
         jLabel124.setText("SAFETY");
         jPanel62.add(jLabel124, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 0, 150, -1));
 
-        jPanel39.add(jPanel62, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 170, 230, 50));
+        jPanel39.add(jPanel62, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 100, 230, 50));
 
         jLabel125.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icons/home2.png"))); // NOI18N
         jLabel125.setText("jLabel1");
@@ -1330,22 +816,6 @@ public class dashboard extends javax.swing.JFrame {
         jPanel63.setBackground(new java.awt.Color(116, 140, 171));
         jPanel63.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        jPanel64.setBackground(new java.awt.Color(240, 235, 216));
-        jPanel64.addMouseListener(new java.awt.event.MouseAdapter() {
-            public void mouseClicked(java.awt.event.MouseEvent evt) {
-                jPanel64MouseClicked(evt);
-            }
-        });
-        jPanel64.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
-
-        jLabel128.setFont(new java.awt.Font("SansSerif", 1, 12)); // NOI18N
-        jLabel128.setForeground(new java.awt.Color(29, 45, 68));
-        jLabel128.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icons/dashboard1.png"))); // NOI18N
-        jLabel128.setText("Dashboard");
-        jPanel64.add(jLabel128, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 0, 140, 50));
-
-        jPanel63.add(jPanel64, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 100, 230, 50));
-
         jPanel65.setBackground(new java.awt.Color(240, 235, 216));
         jPanel65.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -1374,7 +844,7 @@ public class dashboard extends javax.swing.JFrame {
                 .addGap(0, 5, Short.MAX_VALUE))
         );
 
-        jPanel63.add(jPanel65, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 310, 230, 50));
+        jPanel63.add(jPanel65, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 240, 230, 50));
 
         jPanel66.setBackground(new java.awt.Color(240, 235, 216));
         jPanel66.addMouseListener(new java.awt.event.MouseAdapter() {
@@ -1404,7 +874,7 @@ public class dashboard extends javax.swing.JFrame {
                 .addGap(0, 5, Short.MAX_VALUE))
         );
 
-        jPanel63.add(jPanel66, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 240, 230, 50));
+        jPanel63.add(jPanel66, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 170, 230, 50));
 
         jPanel67.setBackground(new java.awt.Color(240, 235, 216));
         jPanel67.addMouseListener(new java.awt.event.MouseAdapter() {
@@ -1420,7 +890,7 @@ public class dashboard extends javax.swing.JFrame {
         jLabel131.setText("SAFETY");
         jPanel67.add(jLabel131, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 0, 150, -1));
 
-        jPanel63.add(jPanel67, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 170, 230, 50));
+        jPanel63.add(jPanel67, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 100, 230, 50));
 
         jLabel132.setIcon(new javax.swing.ImageIcon(getClass().getResource("/icons/home2.png"))); // NOI18N
         jLabel132.setText("jLabel1");
@@ -1871,102 +1341,255 @@ public class dashboard extends javax.swing.JFrame {
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
-    private void searchFieldActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_searchFieldActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_searchFieldActionPerformed
-
-    private void jTextField6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField6ActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_jTextField6ActionPerformed
-
-    private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton3ActionPerformed
+    private void jButton10ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton10ActionPerformed
         JFileChooser fileChooser = new JFileChooser();
-                int returnValue = fileChooser.showOpenDialog(null);
-                if (returnValue == JFileChooser.APPROVE_OPTION) {
-                    selectedFile = fileChooser.getSelectedFile();
-                    selectedFileLabel.setText("Selected File: " + selectedFile.getName());
+        int returnValue = fileChooser.showOpenDialog(null);
+        if (returnValue == JFileChooser.APPROVE_OPTION) {
+            selectedFile = fileChooser.getSelectedFile();
+            selectedFile3Label.setText("Selected File: " + selectedFile.getName());
+        }
+    }//GEN-LAST:event_jButton10ActionPerformed
+
+    private void jButton9ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton9ActionPerformed
+        try {
+            FileInputStream fis = new FileInputStream(selectedFile);
+            byte[] fileData = new byte[(int) selectedFile.length()];
+            fis.read(fileData);
+            fis.close();
+
+            String week = week3Field.getText();
+            String fileName = filename3Field.getText();
+            String fileExtension = getFileExtension(selectedFile.getName()); // Assuming you have a method to extract the file extension
+
+            cn = DriverManager.getConnection("jdbc:mysql://localhost:3306/docutable", "root", "");
+
+            String sql = "INSERT INTO " + table + " (week, filename, file, file_extension) VALUES (?, ?, ?, ?)";
+            PreparedStatement pstmt = cn.prepareStatement(sql);
+            pstmt.setString(1, week);
+            pstmt.setString(2, fileName);
+            pstmt.setBytes(3, fileData);
+            pstmt.setString(4, fileExtension); // Set the file extension
+            pstmt.executeUpdate();
+
+            pstmt.close();
+            cn.close();
+
+            JOptionPane.showMessageDialog(null, "File uploaded successfully.");
+            week3Field.setText("");
+            filename3Field.setText("");
+            selectedFile3Label.setText("Selected File:");
+            showTable3();
+        } catch (Exception ex) {
+            ex.printStackTrace();
+        }
+    }//GEN-LAST:event_jButton9ActionPerformed
+
+    private void search3FieldKeyPressed(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_search3FieldKeyPressed
+        if (evt.getKeyCode() == java.awt.event.KeyEvent.VK_ENTER) {
+            try {
+                Class.forName("com.mysql.cj.jdbc.Driver");
+                cn = DriverManager.getConnection("jdbc:mysql://localhost:3306/docutable", "root", "");
+                st = cn.createStatement();
+                if (!"".equals(search3Field.getText())) {
+                    String sql = "SELECT * FROM `" + table + "` WHERE ID LIKE '%" + search3Field.getText() + "%' OR `week` LIKE '%" + search3Field.getText() + "%'"
+                    + "OR `filename` LIKE '%" + search3Field.getText() + "%'";
+                    ResultSet rrs = st.executeQuery(sql);
+                    DefaultTableModel model = (DefaultTableModel) docutable3.getModel();
+                    model.setRowCount(0); // Clear existing rows
+                    while (rrs.next()) {
+                        Object[] row = {
+                            rrs.getInt("ID"),
+                            rrs.getString("week"),
+                            rrs.getString("filename"),};
+                        model.addRow(row);
+                    }
+                    rrs.close();
+                    st.close();
+                    cn.close();
+
+                } else {
+                    showTable3();
                 }
-    }//GEN-LAST:event_jButton3ActionPerformed
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        }
+    }//GEN-LAST:event_search3FieldKeyPressed
 
-    private void jPanel64MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel64MouseClicked
-        jTabbedPane1.setSelectedIndex(0);
-    }//GEN-LAST:event_jPanel64MouseClicked
-
-    private void jPanel11MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel11MouseClicked
-        jTabbedPane1.setSelectedIndex(1);
-        table = "safety";
-        showTable();
-    }//GEN-LAST:event_jPanel11MouseClicked
-
-    private void jPanel10MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel10MouseClicked
-        jTabbedPane1.setSelectedIndex(2);
-        table = "envi";
-        showTable2();
-    }//GEN-LAST:event_jPanel10MouseClicked
-
-    private void jPanel9MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel9MouseClicked
-        jTabbedPane1.setSelectedIndex(3);
-        table = "social";
-        showTable3();
-    }//GEN-LAST:event_jPanel9MouseClicked
-
-    private void jPanel20MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel20MouseClicked
+    private void search3FieldActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_search3FieldActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_jPanel20MouseClicked
+    }//GEN-LAST:event_search3FieldActionPerformed
 
-    private void jPanel21MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel21MouseClicked
+    private void jPanel52MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel52MouseClicked
         // TODO add your handling code here:
-    }//GEN-LAST:event_jPanel21MouseClicked
+    }//GEN-LAST:event_jPanel52MouseClicked
 
-    private void jPanel22MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel22MouseClicked
-        jTabbedPane1.setSelectedIndex(1);
-        table = "safety";
-        showTable();
-    }//GEN-LAST:event_jPanel22MouseClicked
-
-    private void jPanel25MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel25MouseClicked
+    private void jPanel51MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel51MouseClicked
         // TODO add your handling code here:
-    }//GEN-LAST:event_jPanel25MouseClicked
+    }//GEN-LAST:event_jPanel51MouseClicked
 
-    private void jPanel31MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel31MouseClicked
+    private void jPanel50MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel50MouseClicked
         // TODO add your handling code here:
-    }//GEN-LAST:event_jPanel31MouseClicked
+    }//GEN-LAST:event_jPanel50MouseClicked
 
-    private void jPanel32MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel32MouseClicked
+    private void jPanel71MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel71MouseClicked
         // TODO add your handling code here:
-    }//GEN-LAST:event_jPanel32MouseClicked
+    }//GEN-LAST:event_jPanel71MouseClicked
 
-    private void jPanel43MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel43MouseClicked
+    private void jPanel70MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel70MouseClicked
         // TODO add your handling code here:
-    }//GEN-LAST:event_jPanel43MouseClicked
+    }//GEN-LAST:event_jPanel70MouseClicked
 
-    private void jPanel44MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel44MouseClicked
+    private void jPanel69MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel69MouseClicked
         // TODO add your handling code here:
-    }//GEN-LAST:event_jPanel44MouseClicked
+    }//GEN-LAST:event_jPanel69MouseClicked
+
+    private void jPanel68MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel68MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel68MouseClicked
 
     private void jPanel45MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel45MouseClicked
         // TODO add your handling code here:
     }//GEN-LAST:event_jPanel45MouseClicked
 
-    private void jPanel13MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel13MouseClicked
-        jTabbedPane1.setSelectedIndex(0);
-    }//GEN-LAST:event_jPanel13MouseClicked
+    private void jPanel44MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel44MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel44MouseClicked
 
-    private void jPanel37MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel37MouseClicked
+    private void jPanel43MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel43MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel43MouseClicked
+
+    private void jLabel134MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jLabel134MouseClicked
+        int response = JOptionPane.showConfirmDialog(this, "Do you want to delete?", "Delete", JOptionPane.YES_NO_OPTION, JOptionPane.QUESTION_MESSAGE);
+        if(response == JOptionPane.YES_OPTION){
+            signin si = new signin();
+            si.setVisible(true);
+            this.dispose();
+        }
+    }//GEN-LAST:event_jLabel134MouseClicked
+
+    private void jPanel67MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel67MouseClicked
+        jTabbedPane1.setSelectedIndex(1);
+        table = "safety";
+        showTable();
+    }//GEN-LAST:event_jPanel67MouseClicked
+
+    private void jPanel66MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel66MouseClicked
         jTabbedPane1.setSelectedIndex(2);
         table = "envi";
         showTable2();
-    }//GEN-LAST:event_jPanel37MouseClicked
+    }//GEN-LAST:event_jPanel66MouseClicked
 
-    private void jPanel36MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel36MouseClicked
+    private void jPanel65MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel65MouseClicked
         jTabbedPane1.setSelectedIndex(3);
         table = "social";
         showTable3();
-    }//GEN-LAST:event_jPanel36MouseClicked
+    }//GEN-LAST:event_jPanel65MouseClicked
 
-    private void jPanel59MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel59MouseClicked
-        jTabbedPane1.setSelectedIndex(0);
-    }//GEN-LAST:event_jPanel59MouseClicked
+    private void week2FieldActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_week2FieldActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_week2FieldActionPerformed
+
+    private void jButton8ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton8ActionPerformed
+        JFileChooser fileChooser = new JFileChooser();
+        int returnValue = fileChooser.showOpenDialog(null);
+        if (returnValue == JFileChooser.APPROVE_OPTION) {
+            selectedFile = fileChooser.getSelectedFile();
+            selectedFile2Label.setText("Selected File: " + selectedFile.getName());
+        }
+    }//GEN-LAST:event_jButton8ActionPerformed
+
+    private void jButton7ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton7ActionPerformed
+        try {
+            FileInputStream fis = new FileInputStream(selectedFile);
+            byte[] fileData = new byte[(int) selectedFile.length()];
+            fis.read(fileData);
+            fis.close();
+
+            String week = week2Field.getText();
+            String fileName = filename2Field.getText();
+            String fileExtension = getFileExtension(selectedFile.getName()); // Assuming you have a method to extract the file extension
+
+            cn = DriverManager.getConnection("jdbc:mysql://localhost:3306/docutable", "root", "");
+
+            String sql = "INSERT INTO " + table + " (week, filename, file, file_extension) VALUES (?, ?, ?, ?)";
+            PreparedStatement pstmt = cn.prepareStatement(sql);
+            pstmt.setString(1, week);
+            pstmt.setString(2, fileName);
+            pstmt.setBytes(3, fileData);
+            pstmt.setString(4, fileExtension); // Set the file extension
+            pstmt.executeUpdate();
+
+            pstmt.close();
+            cn.close();
+
+            JOptionPane.showMessageDialog(null, "File uploaded successfully.");
+            week2Field.setText("");
+            filename2Field.setText("");
+            selectedFile2Label.setText("Selected File:");
+            showTable2();
+        } catch (Exception ex) {
+            ex.printStackTrace();
+        }
+    }//GEN-LAST:event_jButton7ActionPerformed
+
+    private void search2FieldKeyPressed(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_search2FieldKeyPressed
+        if (evt.getKeyCode() == java.awt.event.KeyEvent.VK_ENTER) {
+            try {
+                Class.forName("com.mysql.cj.jdbc.Driver");
+                cn = DriverManager.getConnection("jdbc:mysql://localhost:3306/docutable", "root", "");
+                st = cn.createStatement();
+                if (!"".equals(search2Field.getText())) {
+                    String sql = "SELECT * FROM `" + table + "` WHERE ID LIKE '%" + search2Field.getText() + "%' OR `week` LIKE '%" + search2Field.getText() + "%'"
+                    + "OR `filename` LIKE '%" + search2Field.getText() + "%'";
+                    ResultSet rrs = st.executeQuery(sql);
+                    DefaultTableModel model = (DefaultTableModel) docutable2.getModel();
+                    model.setRowCount(0); // Clear existing rows
+                    while (rrs.next()) {
+                        Object[] row = {
+                            rrs.getInt("ID"),
+                            rrs.getString("week"),
+                            rrs.getString("filename"),};
+                        model.addRow(row);
+                    }
+                    rrs.close();
+                    st.close();
+                    cn.close();
+
+                } else {
+                    showTable2();
+                }
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        }
+    }//GEN-LAST:event_search2FieldKeyPressed
+
+    private void search2FieldActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_search2FieldActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_search2FieldActionPerformed
+
+    private void jPanel32MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel32MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel32MouseClicked
+
+    private void jPanel31MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel31MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel31MouseClicked
+
+    private void jPanel25MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel25MouseClicked
+        // TODO add your handling code here:
+    }//GEN-LAST:event_jPanel25MouseClicked
+
+    private void jLabel127MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jLabel127MouseClicked
+        int response = JOptionPane.showConfirmDialog(this, "Log out?", "Log out", JOptionPane.YES_NO_OPTION, JOptionPane.QUESTION_MESSAGE);
+        if(response == JOptionPane.YES_OPTION){
+            signin si = new signin();
+            si.setVisible(true);
+            this.dispose();
+        }
+    }//GEN-LAST:event_jLabel127MouseClicked
 
     private void jPanel62MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel62MouseClicked
         jTabbedPane1.setSelectedIndex(1);
@@ -1986,95 +1609,23 @@ public class dashboard extends javax.swing.JFrame {
         showTable3();
     }//GEN-LAST:event_jPanel60MouseClicked
 
-    private void jPanel67MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel67MouseClicked
+    private void jPanel22MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel22MouseClicked
         jTabbedPane1.setSelectedIndex(1);
         table = "safety";
         showTable();
-    }//GEN-LAST:event_jPanel67MouseClicked
+    }//GEN-LAST:event_jPanel22MouseClicked
 
-    private void jPanel66MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel66MouseClicked
-       jTabbedPane1.setSelectedIndex(2);
-       table = "envi";
-       showTable2();
-    }//GEN-LAST:event_jPanel66MouseClicked
-
-    private void jPanel65MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel65MouseClicked
-        jTabbedPane1.setSelectedIndex(3);
-        table = "social";
-        showTable3();
-    }//GEN-LAST:event_jPanel65MouseClicked
-
-    private void search2FieldActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_search2FieldActionPerformed
+    private void jPanel21MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel21MouseClicked
         // TODO add your handling code here:
-    }//GEN-LAST:event_search2FieldActionPerformed
+    }//GEN-LAST:event_jPanel21MouseClicked
 
-    private void jPanel68MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel68MouseClicked
+    private void jPanel20MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel20MouseClicked
         // TODO add your handling code here:
-    }//GEN-LAST:event_jPanel68MouseClicked
+    }//GEN-LAST:event_jPanel20MouseClicked
 
-    private void jPanel69MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel69MouseClicked
-        // TODO add your handling code here:
-    }//GEN-LAST:event_jPanel69MouseClicked
-
-    private void jPanel70MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel70MouseClicked
-        // TODO add your handling code here:
-    }//GEN-LAST:event_jPanel70MouseClicked
-
-    private void jPanel71MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel71MouseClicked
-        // TODO add your handling code here:
-    }//GEN-LAST:event_jPanel71MouseClicked
-
-    private void jPanel50MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel50MouseClicked
-        // TODO add your handling code here:
-    }//GEN-LAST:event_jPanel50MouseClicked
-
-    private void jPanel51MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel51MouseClicked
-        // TODO add your handling code here:
-    }//GEN-LAST:event_jPanel51MouseClicked
-
-    private void jPanel52MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel52MouseClicked
-        // TODO add your handling code here:
-    }//GEN-LAST:event_jPanel52MouseClicked
-
-    private void search3FieldActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_search3FieldActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_search3FieldActionPerformed
-
-    private void jLabel134MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jLabel134MouseClicked
-         int response = JOptionPane.showConfirmDialog(this, "Do you want to delete?", "Delete", JOptionPane.YES_NO_OPTION, JOptionPane.QUESTION_MESSAGE);
-            if(response == JOptionPane.YES_OPTION){
-                signin si = new signin();
-                si.setVisible(true);
-                this.dispose();
-            }
-    }//GEN-LAST:event_jLabel134MouseClicked
-
-    private void jLabel127MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jLabel127MouseClicked
-        int response = JOptionPane.showConfirmDialog(this, "Log out?", "Log out", JOptionPane.YES_NO_OPTION, JOptionPane.QUESTION_MESSAGE);
-            if(response == JOptionPane.YES_OPTION){
-                signin si = new signin();
-                si.setVisible(true);
-                this.dispose();
-            }
-    }//GEN-LAST:event_jLabel127MouseClicked
-
-    private void jLabel120MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jLabel120MouseClicked
-        int response = JOptionPane.showConfirmDialog(this, "Log out?", "Log out", JOptionPane.YES_NO_OPTION, JOptionPane.QUESTION_MESSAGE);
-            if(response == JOptionPane.YES_OPTION){
-                signin si = new signin();
-                si.setVisible(true);
-                this.dispose();
-            }
-    }//GEN-LAST:event_jLabel120MouseClicked
-
-    private void jLabel87MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jLabel87MouseClicked
-        int response = JOptionPane.showConfirmDialog(this, "Log out?", "Log out", JOptionPane.YES_NO_OPTION, JOptionPane.QUESTION_MESSAGE);
-            if(response == JOptionPane.YES_OPTION){
-                signin si = new signin();
-                si.setVisible(true);
-                this.dispose();
-            }
-    }//GEN-LAST:event_jLabel87MouseClicked
+    private void jPanel13MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel13MouseClicked
+        jTabbedPane1.setSelectedIndex(0);
+    }//GEN-LAST:event_jPanel13MouseClicked
 
     private void jButton6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton6ActionPerformed
         try {
@@ -2111,6 +1662,73 @@ public class dashboard extends javax.swing.JFrame {
             ex.printStackTrace();
         }
     }//GEN-LAST:event_jButton6ActionPerformed
+
+    private void jLabel120MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jLabel120MouseClicked
+        int response = JOptionPane.showConfirmDialog(this, "Log out?", "Log out", JOptionPane.YES_NO_OPTION, JOptionPane.QUESTION_MESSAGE);
+        if(response == JOptionPane.YES_OPTION){
+            signin si = new signin();
+            si.setVisible(true);
+            this.dispose();
+        }
+    }//GEN-LAST:event_jLabel120MouseClicked
+
+    private void jPanel37MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel37MouseClicked
+        jTabbedPane1.setSelectedIndex(2);
+        table = "envi";
+        showTable2();
+    }//GEN-LAST:event_jPanel37MouseClicked
+
+    private void jPanel36MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel36MouseClicked
+        jTabbedPane1.setSelectedIndex(3);
+        table = "social";
+        showTable3();
+    }//GEN-LAST:event_jPanel36MouseClicked
+
+    private void jButton3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton3ActionPerformed
+        JFileChooser fileChooser = new JFileChooser();
+        int returnValue = fileChooser.showOpenDialog(null);
+        if (returnValue == JFileChooser.APPROVE_OPTION) {
+            selectedFile = fileChooser.getSelectedFile();
+            selectedFileLabel.setText("Selected File: " + selectedFile.getName());
+        }
+    }//GEN-LAST:event_jButton3ActionPerformed
+
+    private void searchFieldKeyPressed(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_searchFieldKeyPressed
+        if(evt.getKeyCode()==java.awt.event.KeyEvent.VK_ENTER){
+            try {
+                Class.forName("com.mysql.cj.jdbc.Driver");
+                cn = DriverManager.getConnection("jdbc:mysql://localhost:3306/docutable", "root", "");
+                st = cn.createStatement();
+                if (!"".equals(searchField.getText())) {
+                    String sql = "SELECT * FROM `" + table + "` WHERE ID LIKE '%" + searchField.getText() + "%' OR `week` LIKE '%" + searchField.getText() + "%'"
+                    + "OR `filename` LIKE '%" + searchField.getText() + "%'";
+                    ResultSet rrs = st.executeQuery(sql);
+                    DefaultTableModel model = (DefaultTableModel) docutable.getModel();
+                    model.setRowCount(0); // Clear existing rows
+                    while (rrs.next()) {
+                        Object[] row = {
+                            rrs.getInt("ID"),
+                            rrs.getString("week"),
+                            rrs.getString("filename"),
+                        };
+                        model.addRow(row);
+                    }
+                    rrs.close();
+                    st.close();
+                    cn.close();
+
+                } else {
+                    showTable();
+                }
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        }
+    }//GEN-LAST:event_searchFieldKeyPressed
+
+    private void searchFieldActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_searchFieldActionPerformed
+        // TODO add your handling code here:
+    }//GEN-LAST:event_searchFieldActionPerformed
     private String getFileExtension(String fileName) {
         int lastDotIndex = fileName.lastIndexOf('.');
         if (lastDotIndex > 0) {
@@ -2328,193 +1946,6 @@ public class dashboard extends javax.swing.JFrame {
 
 
 
-    private void jButton7ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton7ActionPerformed
-        try {
-            FileInputStream fis = new FileInputStream(selectedFile);
-            byte[] fileData = new byte[(int) selectedFile.length()];
-            fis.read(fileData);
-            fis.close();
-
-            String week = week2Field.getText();
-            String fileName = filename2Field.getText();
-            String fileExtension = getFileExtension(selectedFile.getName()); // Assuming you have a method to extract the file extension
-
-            cn = DriverManager.getConnection("jdbc:mysql://localhost:3306/docutable", "root", "");
-
-            String sql = "INSERT INTO " + table + " (week, filename, file, file_extension) VALUES (?, ?, ?, ?)";
-            PreparedStatement pstmt = cn.prepareStatement(sql);
-            pstmt.setString(1, week);
-            pstmt.setString(2, fileName);
-            pstmt.setBytes(3, fileData);
-            pstmt.setString(4, fileExtension); // Set the file extension
-            pstmt.executeUpdate();
-
-            pstmt.close();
-            cn.close();
-
-            JOptionPane.showMessageDialog(null, "File uploaded successfully.");
-            week2Field.setText("");
-            filename2Field.setText("");
-            selectedFile2Label.setText("Selected File:");
-            showTable2();
-        } catch (Exception ex) {
-            ex.printStackTrace();
-        }
-    }//GEN-LAST:event_jButton7ActionPerformed
-
-    private void jButton8ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton8ActionPerformed
-        JFileChooser fileChooser = new JFileChooser();
-        int returnValue = fileChooser.showOpenDialog(null);
-        if (returnValue == JFileChooser.APPROVE_OPTION) {
-            selectedFile = fileChooser.getSelectedFile();
-            selectedFile2Label.setText("Selected File: " + selectedFile.getName());
-        }
-    }//GEN-LAST:event_jButton8ActionPerformed
-
-    private void jButton9ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton9ActionPerformed
-        try {
-            FileInputStream fis = new FileInputStream(selectedFile);
-            byte[] fileData = new byte[(int) selectedFile.length()];
-            fis.read(fileData);
-            fis.close();
-
-            String week = week3Field.getText();
-            String fileName = filename3Field.getText();
-            String fileExtension = getFileExtension(selectedFile.getName()); // Assuming you have a method to extract the file extension
-
-            cn = DriverManager.getConnection("jdbc:mysql://localhost:3306/docutable", "root", "");
-
-            String sql = "INSERT INTO " + table + " (week, filename, file, file_extension) VALUES (?, ?, ?, ?)";
-            PreparedStatement pstmt = cn.prepareStatement(sql);
-            pstmt.setString(1, week);
-            pstmt.setString(2, fileName);
-            pstmt.setBytes(3, fileData);
-            pstmt.setString(4, fileExtension); // Set the file extension
-            pstmt.executeUpdate();
-
-            pstmt.close();
-            cn.close();
-
-            JOptionPane.showMessageDialog(null, "File uploaded successfully.");
-            week3Field.setText("");
-            filename3Field.setText("");
-            selectedFile3Label.setText("Selected File:");
-            showTable3();
-        } catch (Exception ex) {
-            ex.printStackTrace();
-        }
-    }//GEN-LAST:event_jButton9ActionPerformed
-
-    private void jButton10ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton10ActionPerformed
-        JFileChooser fileChooser = new JFileChooser();
-        int returnValue = fileChooser.showOpenDialog(null);
-        if (returnValue == JFileChooser.APPROVE_OPTION) {
-            selectedFile = fileChooser.getSelectedFile();
-            selectedFile3Label.setText("Selected File: " + selectedFile.getName());
-        }
-    }//GEN-LAST:event_jButton10ActionPerformed
-
-    private void week2FieldActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_week2FieldActionPerformed
-        // TODO add your handling code here:
-    }//GEN-LAST:event_week2FieldActionPerformed
-
-    private void searchFieldKeyPressed(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_searchFieldKeyPressed
-        if(evt.getKeyCode()==java.awt.event.KeyEvent.VK_ENTER){     
-            try {
-                Class.forName("com.mysql.cj.jdbc.Driver");
-                cn = DriverManager.getConnection("jdbc:mysql://localhost:3306/docutable", "root", "");
-                st = cn.createStatement();
-                if (!"".equals(searchField.getText())) {
-                    String sql = "SELECT * FROM `" + table + "` WHERE ID LIKE '%" + searchField.getText() + "%' OR `week` LIKE '%" + searchField.getText() + "%'"
-                            + "OR `filename` LIKE '%" + searchField.getText() + "%'";
-                    ResultSet rrs = st.executeQuery(sql);
-                    DefaultTableModel model = (DefaultTableModel) docutable.getModel();
-                    model.setRowCount(0); // Clear existing rows
-                    while (rrs.next()) {
-                        Object[] row = {
-                            rrs.getInt("ID"),
-                            rrs.getString("week"),
-                            rrs.getString("filename"),
-                        };
-                        model.addRow(row);
-                    }
-                    rrs.close();
-                    st.close();
-                    cn.close();
-
-                } else {
-                    showTable();
-                }
-            } catch (Exception e) {
-                e.printStackTrace();
-            }
-        }
-    }//GEN-LAST:event_searchFieldKeyPressed
-
-    private void search2FieldKeyPressed(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_search2FieldKeyPressed
-        if (evt.getKeyCode() == java.awt.event.KeyEvent.VK_ENTER) {
-            try {
-                Class.forName("com.mysql.cj.jdbc.Driver");
-                cn = DriverManager.getConnection("jdbc:mysql://localhost:3306/docutable", "root", "");
-                st = cn.createStatement();
-                if (!"".equals(search2Field.getText())) {
-                    String sql = "SELECT * FROM `" + table + "` WHERE ID LIKE '%" + search2Field.getText() + "%' OR `week` LIKE '%" + search2Field.getText() + "%'"
-                            + "OR `filename` LIKE '%" + search2Field.getText() + "%'";
-                    ResultSet rrs = st.executeQuery(sql);
-                    DefaultTableModel model = (DefaultTableModel) docutable2.getModel();
-                    model.setRowCount(0); // Clear existing rows
-                    while (rrs.next()) {
-                        Object[] row = {
-                            rrs.getInt("ID"),
-                            rrs.getString("week"),
-                            rrs.getString("filename"),};
-                        model.addRow(row);
-                    }
-                    rrs.close();
-                    st.close();
-                    cn.close();
-
-                } else {
-                    showTable2();
-                }
-            } catch (Exception e) {
-                e.printStackTrace();
-            }
-        }
-    }//GEN-LAST:event_search2FieldKeyPressed
-
-    private void search3FieldKeyPressed(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_search3FieldKeyPressed
-        if (evt.getKeyCode() == java.awt.event.KeyEvent.VK_ENTER) {
-            try {
-                Class.forName("com.mysql.cj.jdbc.Driver");
-                cn = DriverManager.getConnection("jdbc:mysql://localhost:3306/docutable", "root", "");
-                st = cn.createStatement();
-                if (!"".equals(search3Field.getText())) {
-                    String sql = "SELECT * FROM `" + table + "` WHERE ID LIKE '%" + search3Field.getText() + "%' OR `week` LIKE '%" + search3Field.getText() + "%'"
-                            + "OR `filename` LIKE '%" + search3Field.getText() + "%'";
-                    ResultSet rrs = st.executeQuery(sql);
-                    DefaultTableModel model = (DefaultTableModel) docutable3.getModel();
-                    model.setRowCount(0); // Clear existing rows
-                    while (rrs.next()) {
-                        Object[] row = {
-                            rrs.getInt("ID"),
-                            rrs.getString("week"),
-                            rrs.getString("filename"),};
-                        model.addRow(row);
-                    }
-                    rrs.close();
-                    st.close();
-                    cn.close();
-
-                } else {
-                    showTable3();
-                }
-            } catch (Exception e) {
-                e.printStackTrace();
-            }
-        }
-    }//GEN-LAST:event_search3FieldKeyPressed
-
     /**
      * @param args the command line arguments
      */
@@ -2564,31 +1995,24 @@ public class dashboard extends javax.swing.JFrame {
     private javax.swing.JButton jButton7;
     private javax.swing.JButton jButton8;
     private javax.swing.JButton jButton9;
-    private javax.swing.JLabel jLabel1;
-    private javax.swing.JLabel jLabel10;
     private javax.swing.JLabel jLabel100;
     private javax.swing.JLabel jLabel101;
     private javax.swing.JLabel jLabel102;
     private javax.swing.JLabel jLabel103;
     private javax.swing.JLabel jLabel104;
     private javax.swing.JLabel jLabel105;
-    private javax.swing.JLabel jLabel11;
-    private javax.swing.JLabel jLabel114;
     private javax.swing.JLabel jLabel115;
     private javax.swing.JLabel jLabel116;
     private javax.swing.JLabel jLabel117;
     private javax.swing.JLabel jLabel118;
     private javax.swing.JLabel jLabel119;
-    private javax.swing.JLabel jLabel12;
     private javax.swing.JLabel jLabel120;
-    private javax.swing.JLabel jLabel121;
     private javax.swing.JLabel jLabel122;
     private javax.swing.JLabel jLabel123;
     private javax.swing.JLabel jLabel124;
     private javax.swing.JLabel jLabel125;
     private javax.swing.JLabel jLabel126;
     private javax.swing.JLabel jLabel127;
-    private javax.swing.JLabel jLabel128;
     private javax.swing.JLabel jLabel129;
     private javax.swing.JLabel jLabel13;
     private javax.swing.JLabel jLabel130;
@@ -2625,80 +2049,30 @@ public class dashboard extends javax.swing.JFrame {
     private javax.swing.JLabel jLabel31;
     private javax.swing.JLabel jLabel32;
     private javax.swing.JLabel jLabel33;
-    private javax.swing.JLabel jLabel35;
-    private javax.swing.JLabel jLabel36;
-    private javax.swing.JLabel jLabel37;
     private javax.swing.JLabel jLabel38;
-    private javax.swing.JLabel jLabel39;
     private javax.swing.JLabel jLabel4;
     private javax.swing.JLabel jLabel40;
     private javax.swing.JLabel jLabel41;
-    private javax.swing.JLabel jLabel42;
-    private javax.swing.JLabel jLabel43;
-    private javax.swing.JLabel jLabel44;
-    private javax.swing.JLabel jLabel45;
-    private javax.swing.JLabel jLabel46;
-    private javax.swing.JLabel jLabel47;
-    private javax.swing.JLabel jLabel48;
-    private javax.swing.JLabel jLabel49;
     private javax.swing.JLabel jLabel5;
-    private javax.swing.JLabel jLabel50;
-    private javax.swing.JLabel jLabel51;
-    private javax.swing.JLabel jLabel52;
-    private javax.swing.JLabel jLabel53;
     private javax.swing.JLabel jLabel54;
-    private javax.swing.JLabel jLabel55;
-    private javax.swing.JLabel jLabel56;
-    private javax.swing.JLabel jLabel57;
-    private javax.swing.JLabel jLabel58;
-    private javax.swing.JLabel jLabel59;
     private javax.swing.JLabel jLabel67;
-    private javax.swing.JLabel jLabel7;
     private javax.swing.JLabel jLabel73;
-    private javax.swing.JLabel jLabel8;
     private javax.swing.JLabel jLabel86;
-    private javax.swing.JLabel jLabel87;
     private javax.swing.JLabel jLabel88;
-    private javax.swing.JLabel jLabel89;
     private javax.swing.JLabel jLabel9;
-    private javax.swing.JLabel jLabel90;
-    private javax.swing.JLabel jLabel91;
-    private javax.swing.JLabel jLabel92;
-    private javax.swing.JLabel jLabel93;
-    private javax.swing.JLabel jLabel94;
-    private javax.swing.JLabel jLabel95;
-    private javax.swing.JLabel jLabel96;
-    private javax.swing.JLabel jLabel97;
-    private javax.swing.JLabel jLabel98;
-    private javax.swing.JLabel jLabel99;
-    private javax.swing.JPanel jPanel1;
-    private javax.swing.JPanel jPanel10;
-    private javax.swing.JPanel jPanel11;
     private javax.swing.JPanel jPanel12;
     private javax.swing.JPanel jPanel13;
-    private javax.swing.JPanel jPanel14;
-    private javax.swing.JPanel jPanel15;
-    private javax.swing.JPanel jPanel16;
-    private javax.swing.JPanel jPanel17;
-    private javax.swing.JPanel jPanel18;
-    private javax.swing.JPanel jPanel19;
     private javax.swing.JPanel jPanel20;
     private javax.swing.JPanel jPanel21;
     private javax.swing.JPanel jPanel22;
     private javax.swing.JPanel jPanel23;
     private javax.swing.JPanel jPanel24;
     private javax.swing.JPanel jPanel25;
-    private javax.swing.JPanel jPanel26;
-    private javax.swing.JPanel jPanel27;
-    private javax.swing.JPanel jPanel28;
-    private javax.swing.JPanel jPanel29;
-    private javax.swing.JPanel jPanel3;
     private javax.swing.JPanel jPanel30;
     private javax.swing.JPanel jPanel31;
     private javax.swing.JPanel jPanel32;
     private javax.swing.JPanel jPanel33;
     private javax.swing.JPanel jPanel34;
-    private javax.swing.JPanel jPanel35;
     private javax.swing.JPanel jPanel36;
     private javax.swing.JPanel jPanel37;
     private javax.swing.JPanel jPanel38;
@@ -2718,54 +2092,22 @@ public class dashboard extends javax.swing.JFrame {
     private javax.swing.JPanel jPanel50;
     private javax.swing.JPanel jPanel51;
     private javax.swing.JPanel jPanel52;
-    private javax.swing.JPanel jPanel59;
     private javax.swing.JPanel jPanel6;
     private javax.swing.JPanel jPanel60;
     private javax.swing.JPanel jPanel61;
     private javax.swing.JPanel jPanel62;
     private javax.swing.JPanel jPanel63;
-    private javax.swing.JPanel jPanel64;
     private javax.swing.JPanel jPanel65;
     private javax.swing.JPanel jPanel66;
     private javax.swing.JPanel jPanel67;
     private javax.swing.JPanel jPanel68;
     private javax.swing.JPanel jPanel69;
-    private javax.swing.JPanel jPanel7;
     private javax.swing.JPanel jPanel70;
     private javax.swing.JPanel jPanel71;
-    private javax.swing.JPanel jPanel8;
-    private javax.swing.JPanel jPanel9;
     private javax.swing.JScrollPane jScrollPane1;
     private javax.swing.JScrollPane jScrollPane3;
     private javax.swing.JScrollPane jScrollPane4;
     private javax.swing.JTabbedPane jTabbedPane1;
-    private javax.swing.JTextField jTextField11;
-    private javax.swing.JTextField jTextField13;
-    private javax.swing.JTextField jTextField14;
-    private javax.swing.JTextField jTextField15;
-    private javax.swing.JTextField jTextField16;
-    private javax.swing.JTextField jTextField19;
-    private javax.swing.JTextField jTextField20;
-    private javax.swing.JTextField jTextField21;
-    private javax.swing.JTextField jTextField22;
-    private javax.swing.JTextField jTextField23;
-    private javax.swing.JTextField jTextField24;
-    private javax.swing.JTextField jTextField25;
-    private javax.swing.JTextField jTextField26;
-    private javax.swing.JTextField jTextField27;
-    private javax.swing.JTextField jTextField28;
-    private javax.swing.JTextField jTextField29;
-    private javax.swing.JTextField jTextField30;
-    private javax.swing.JTextField jTextField34;
-    private javax.swing.JTextField jTextField35;
-    private javax.swing.JTextField jTextField36;
-    private javax.swing.JTextField jTextField37;
-    private javax.swing.JTextField jTextField38;
-    private javax.swing.JTextField jTextField39;
-    private javax.swing.JTextField jTextField40;
-    private javax.swing.JTextField jTextField41;
-    private javax.swing.JTextField jTextField42;
-    private javax.swing.JTextField jTextField6;
     private javax.swing.JTextField search2Field;
     private javax.swing.JTextField search3Field;
     private javax.swing.JTextField searchField;
