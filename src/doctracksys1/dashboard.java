@@ -1461,7 +1461,7 @@ public class dashboard extends javax.swing.JFrame {
     }//GEN-LAST:event_jPanel43MouseClicked
 
     private void jLabel134MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jLabel134MouseClicked
-        int response = JOptionPane.showConfirmDialog(this, "Do you want to delete?", "Delete", JOptionPane.YES_NO_OPTION, JOptionPane.QUESTION_MESSAGE);
+        int response = JOptionPane.showConfirmDialog(this, "Log out?", "Log out", JOptionPane.YES_NO_OPTION, JOptionPane.QUESTION_MESSAGE);
         if(response == JOptionPane.YES_OPTION){
             signin si = new signin();
             si.setVisible(true);
@@ -1470,19 +1470,19 @@ public class dashboard extends javax.swing.JFrame {
     }//GEN-LAST:event_jLabel134MouseClicked
 
     private void jPanel67MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel67MouseClicked
-        jTabbedPane1.setSelectedIndex(1);
+        jTabbedPane1.setSelectedIndex(0);
         table = "safety";
         showTable();
     }//GEN-LAST:event_jPanel67MouseClicked
 
     private void jPanel66MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel66MouseClicked
-        jTabbedPane1.setSelectedIndex(2);
+        jTabbedPane1.setSelectedIndex(1);
         table = "envi";
         showTable2();
     }//GEN-LAST:event_jPanel66MouseClicked
 
     private void jPanel65MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel65MouseClicked
-        jTabbedPane1.setSelectedIndex(3);
+        jTabbedPane1.setSelectedIndex(2);
         table = "social";
         showTable3();
     }//GEN-LAST:event_jPanel65MouseClicked
@@ -1592,25 +1592,25 @@ public class dashboard extends javax.swing.JFrame {
     }//GEN-LAST:event_jLabel127MouseClicked
 
     private void jPanel62MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel62MouseClicked
-        jTabbedPane1.setSelectedIndex(1);
+        jTabbedPane1.setSelectedIndex(0);
         table = "safety";
         showTable();
     }//GEN-LAST:event_jPanel62MouseClicked
 
     private void jPanel61MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel61MouseClicked
-        jTabbedPane1.setSelectedIndex(2);
+        jTabbedPane1.setSelectedIndex(1);
         table = "envi";
         showTable2();
     }//GEN-LAST:event_jPanel61MouseClicked
 
     private void jPanel60MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel60MouseClicked
-        jTabbedPane1.setSelectedIndex(3);
+        jTabbedPane1.setSelectedIndex(2);
         table = "social";
         showTable3();
     }//GEN-LAST:event_jPanel60MouseClicked
 
     private void jPanel22MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel22MouseClicked
-        jTabbedPane1.setSelectedIndex(1);
+        jTabbedPane1.setSelectedIndex(0);
         table = "safety";
         showTable();
     }//GEN-LAST:event_jPanel22MouseClicked
@@ -1673,13 +1673,13 @@ public class dashboard extends javax.swing.JFrame {
     }//GEN-LAST:event_jLabel120MouseClicked
 
     private void jPanel37MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel37MouseClicked
-        jTabbedPane1.setSelectedIndex(2);
+        jTabbedPane1.setSelectedIndex(1);
         table = "envi";
         showTable2();
     }//GEN-LAST:event_jPanel37MouseClicked
 
     private void jPanel36MouseClicked(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jPanel36MouseClicked
-        jTabbedPane1.setSelectedIndex(3);
+        jTabbedPane1.setSelectedIndex(2);
         table = "social";
         showTable3();
     }//GEN-LAST:event_jPanel36MouseClicked
